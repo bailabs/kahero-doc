@@ -1,3 +1,3 @@
-# cover
+![logo](_images/120x120.svg)
 
-Hello Kahero
+> SAVE THE DAY WITH KAHERO POS!
