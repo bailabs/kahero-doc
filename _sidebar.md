@@ -1,2 +1,2 @@
-* [Home](/)
-* [Cover Page](coverpage.md)
+* [INTRODUCTION](/)
+* [FEATURES](features.md)
