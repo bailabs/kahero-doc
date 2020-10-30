@@ -1,3 +1,3 @@
-![logo](_images/120x120.svg)
+![logo](_images/120x120.png)
 
-> SAVE THE DAY WITH KAHERO POS!
+# docsify <small>10.30.20</small>
