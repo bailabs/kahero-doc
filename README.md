@@ -18,3 +18,5 @@ can now make transactions through KaHero‟s mobile cash register.
 Keep track of your sales and refunds through electronic receipts.
 
 Enjoy saving the day with KaHero POS!
+
+HELLO
