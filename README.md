@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## INTRODUCTION
 
-You can use the [editor on GitHub](https://github.com/Sagittaiseu/kaherosample/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+KaHero is a POS system that aims to assist businesses in their
+daily operations and make transactions with your customers an easy
+and quick process. We want to help in easing your troubles and with
+that, we made KaHero POS to assist you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Do you want to make your daily business transactions a quick
+and easy process? KaHero POS is the ultimate business hero! Sell
+your products, manage your sales, track your employee‟s shifts and
+keep a record of their transactions; all of these made easier with the
+help of KaHero POS.
 
-### Markdown
+Simply add your products and segregate them according to their
+categories. Add discount lists that will be applied to your products.
+Taxes can also be included in your products. With all that listed, you
+can now make transactions through KaHero‟s mobile cash register.
+Keep track of your sales and refunds through electronic receipts.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sagittaiseu/kaherosample/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Enjoy saving the day with KaHero POS!
