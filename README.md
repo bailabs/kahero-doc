@@ -1,6 +1,6 @@
 ## INTRODUCTION
 
-[![getting started](https://play-lh.googleusercontent.com/vhL0SD0C8WBRhEYdfVcgdsWXwVlt0Z8MUMhHdxj9LZxpILwQzcQtckurICszgpsBA-0)](https://www.youtube.com/watch?v=zgySSsmLvR0&t=18s "Getting Started With KaHero")
+[![getting started](https://www.youtube.com/watch?v=zgySSsmLvR0&t=18s "Getting Started With KaHero")]
 
 KaHero is a POS system that aims to assist businesses in their
 daily operations and make transactions with your customers an easy
