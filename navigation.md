@@ -4,25 +4,36 @@
 
 > On the Users tab, you can add and edit users that will be using the POS. You can set users as admin. You can also choose to enable opening of cash drawers without even making sales.
 
-### B.	REGISTER
+<video width="640" height="360" controls>
+  <source src="/_nav/1users.mp4" type="video/mp4">
+</video>
 
-![featuresdisabled](_initialsteps/featuresdisabled.png)
+### B.	REGISTER
 
 > On the Registers tab, this is where you do most of your sales and transactions. You can add items on the list and proceed to payment, and choose which payment type is used to pay.
 
-### C.	RECEIPTS
+<video width="640" height="360" controls>
+  <source src="/_nav/2register1.mp4" type="video/mp4">
+</video>
 
-![featuresdisabled](_initialsteps/featuresdisabled.png)
+### C.	RECEIPTS
 
 > On the Receipts tab, you can find all the sales transactions, payments, and refunds made. You can reprint and refund receipts on this tab.
 
-### D.	LISTINGS
+<video width="640" height="360" controls>
+  <source src="/_nav/3receipts1.mp4" type="video/mp4">
+</video>
 
-![featuresdisabled](_initialsteps/featuresdisabled.png)
+### D.	LISTINGS
 
 > On the Listings tab, you can find the list of items that are important for your transactions such as your products and their categories, discount lists, payment types, and tax lists. You can add and edit items here as well.
 
+<video width="640" height="360" controls>
+  <source src="/_nav/4listings1.mp4" type="video/mp4">
+
 > Under the Listings tab, you can find the sub-categories Items, Categories, Discounts, Payment Types, Taxes.
+
+</video>
 
 ##### D1. ITEMS
 
@@ -46,8 +57,6 @@
 
 ### E.	SETTINGS
 
-![featuresdisabled](_initialsteps/featuresdisabled.png)
-
 > Under the Settings tab without any feature enabled, you can find the sub-categories General Settings, Printer, Features.
 
 ##### E1. GENERAL SETTINGS
@@ -64,21 +73,15 @@
 
 ### F.	CHAT SUPPORT
 
-![featuresdisabled](_initialsteps/featuresdisabled.png)
-
 > On the Chat Support tab, you are redirected to the application’s chat features where you can address your concerns and ask for technical support in case difficulties are experienced.
 
 ### ALL FEATURES ENABLED:
 
 ### G.	ONLINE ORDER
 
-![featuresdisabled](_initialsteps/featuresdisabled.png)
-
 > On the Online Order tab, you can track all online orders and their corresponding status. You can also sort the orders according to their dates.
 
 ### H.	EMPLOYEE MANAGEMENT
-
-![featuresdisabled](_initialsteps/featuresdisabled.png)
 
 > Under the Employee Management tab, you can find the sub-categories Employees, Time Entries.
 
@@ -91,8 +94,6 @@
 > On the Time Entries tab, you can track your employees in-time and out-time.
 
 ### I.	INVENTORY MANAGEMENT
-
-![featuresdisabled](_initialsteps/featuresdisabled.png)
 
 > Under the Inventory Management tab, you can find the sub-categories Warehouse, Item Bundles, Items Stock, Item Transfer, Item Ledger.
 
@@ -118,8 +119,6 @@
 
 ### J.	SHIFT MANAGEMENT
 
-![featuresdisabled](_initialsteps/featuresdisabled.png)
-
 > With the Shift Management feature enabled, you can keep track of your employees’ time in and time out and their sales for the day as well.
 
 > Under the Shift Management tab, you can find the sub-categories Open/Close Shift, X-Reading, Z-Reading.
@@ -141,8 +140,6 @@
 > On the Z-Reading tab, you can keep track of the sales made on each day. You can also select any date you would like to check.
 
 ### K. SETTINGS
-
-![featuresdisabled](_initialsteps/featuresdisabled.png)
 
 > Under the Settings tab with all features enabled, you can find the sub-categories Printer Groups, Quickbooks, Open Tickets, Dining Options, Dining Option Fees, Online Store Settings, BIR Settings, ERPNext Settings .
 
