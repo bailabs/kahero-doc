@@ -19,4 +19,8 @@ Taxes can also be included in your products. With all that listed, you
 can now make transactions through KaHero‟s mobile cash register.
 Keep track of your sales and refunds through electronic receipts.
 
+<<<<<<< HEAD
 > Enjoy saving the day with KaHero POS!
+=======
+> Enjoy saving the day with KaHero POS!
+>>>>>>> c69163d84da71a2187e09b47eff6d03fa606edd6
