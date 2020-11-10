@@ -1,16 +1,36 @@
 # **Operations**
 
-### A. Adding Listings - Items
+### <b>ADDING LISTINGS</b>
+
 > After setting up your KaHero POS account, you can proceed to adding items to the POS for you to start using the features available in KaHero POS.
 
-1.	Go to the Navigation Bar Menu and select Listings. From the dropdown menu, choose Items.
-2.	You will be directed to an empty space. Below the screen, you will find the “Add an Item” button. Click this, and you will be directed to the Add Item screen.
-3.	Input your Item/Product name and price on the space provided. You can also enable or disable the item as a Sale Item which indicates whether or not it appears on your cash register.
-4.	Add details about your item under the “Details” dropdown menu.
+<video width="650" height="366" controls>
+  <source src="/_operations/1listings.mp4" type="video/mp4">
+</video>
+
+##### <b>Items</b>
+
+1.	Go to <b>Navigation Menu</b> and select <b>Listings</b>. Select <b>Items</b>.
+2.	Click “Add an Item” button to add an item.
+3.	Input your Item/Product details. Enable or disable the item as a <b>Sale Item</b> which indicates whether or not it appears on your cash register.
 5.	Add item options if your item has a variety.
 
-### B. Register – Sales Transaction
+##### <b>Category</b>
+
+1.	Go to <b>Navigation Menu</b> and select <b>Listings</b>. Select <b>Category</b>.
+2.	Click “Add a Category”.
+3.	Input your category details.
+5.	Assign or add items to this category.
+
+<br>
+
+### <b>REGISTER - SALES TRANSACTIONS</b>
+
 > After encoding all your listings, you can start making sales by navigating to the Register.
+
+<video width="650" height="366" controls>
+  <source src="/_operations/2register.mp4" type="video/mp4">
+</video>
 
 1.	Go to the Navigation Bar Menu and select Register. 
 2.	You will be directed to where your sales transactions will happen.
@@ -34,8 +54,15 @@
 9.	Click “Proceed” to confirm the payment and finish the transaction.
 10.	 If available, the transaction’s receipt will be printed after confirmation of payment.
 
-### C. Receipts and Refunds
+<br>
+
+### <b>RECEIPTS AND REFUNDS</b>
+
 > All your transactions will reflect on the Receipts tab.
+
+<video width="650" height="366" controls>
+  <source src="/_operations/3receipts.mp4" type="video/mp4">
+</video>
 
 1.	Go to the Navigation Bar Menu and select Receipts. 
 2.	You will be directed to where your receipts are located.
@@ -49,3 +76,51 @@
 6.	Click “Okay”. The item/s to be refunded will appear on the right side of the screen.
 7.	To cancel the refunding of an item, tap on the item on the list on the right of your screen.
 8.	Complete the process by clicking the “Refund” button on the bottom of the screen. Another receipt will appear on your receipts list and will be labeled as a refund receipt.
+
+<br>
+
+### <b>ADDING PRINTERS</b>
+
+> You can add receipts printer to KaHero and print your transaction receipts.
+
+<video width="650" height="366" controls>
+  <source src="/_operations/4printer.mp4" type="video/mp4">
+</video>
+
+1.	Go to the Navigation Bar Menu and select Printer Settings. Under Printer Settings, select Printer
+2.	Click Add a Printer to add your printer.
+3.	Input your printer details.
+    a. Printer Name
+    b. Type of Printer (Ethernet, Bluetooth, USB)
+    C. Input your printer's IP Address (You can find the IP address on the printer's label or manual)
+    d. Choose whether your printer is Direct or Image.
+    e. Choose your paper size. (Recommended is 80 mm or 58 mm)
+    f. Set DPI to 180
+    g. You can choose which options to enable
+        g1. Open Cash Drawer - enable open cash drawer when finishing a transaction and printing a receipt
+        g2. Print Receipt - enable to print receipt
+        g3. Print Order - printer is included in a printer group
+        g4. Print Sticker Label - enable to print sticker label
+4.	Click Save. You can now use the printer to print your receipts.
+
+<br>
+
+<!-- ### <b>Back Office</b>
+
+> You can add receipts printer to KaHero and print your transaction receipts.
+
+1.	Go to the Navigation Bar Menu and select Printer Settings. Under Printer Settings, select Printer
+2.	Click Add a Printer to add your printer.
+3.	Input your printer details.
+    a. Printer Name
+    b. Type of Printer (Ethernet, Bluetooth, USB)
+    C. Input your printer's IP Address (You can find the IP address on the printer's label or manual)
+    d. Choose whether your printer is Direct or Image.
+    e. Choose your paper size. (Recommended is 80 mm or 58 mm)
+    f. Set DPI to 180
+    g. You can choose which options to enable
+        g1. Open Cash Drawer - enable open cash drawer when finishing a transaction and printing a receipt
+        g2. Print Receipt - enable to print receipt
+        g3. Print Order - printer is included in a printer group
+        g4. Print Sticker Label - enable to print sticker label
+4.	Click Save. You can now use the printer to print your receipts. -->

@@ -1,5 +1,26 @@
 # **FEATURES**
 
+### <b>HOW TO ACTIVATE EACH FEATURE</b>
+
+<video width="650" height="366" controls>
+  <source src="/_features/0Activate/0activate.mp4" type="video/mp4">
+</video>
+
+1.	Open the <b>Navigation Menu</b>. Select <b>Settings</b>, then select <b>Features</b>.
+
+<img src="_features\0Activate\1.png" alt="1a" width="650" height="366">
+
+2.	Select which features you want to enable. Some features are only available when you upgrade to PRO.
+Click <b>Save</b>.
+
+<img src="_features\0Activate\2.png" alt="1a" width="650" height="366">
+
+3.	You can now find the activated features on the Navigation Menu.
+
+<img src="_features\0Activate\3.png" alt="1a" width="650" height="366">
+
+<br>
+
 ### <b>OFFLINE POS</b>
 
 <img src="_features\1Offline\1offline.png" alt="offline" width="650" height="366">
@@ -37,7 +58,7 @@ and lets you keep track of their shifts.
 
 <img src="_features\2EmpManage\4a.png" alt="1a" width="650" height="366">
 
-<br><br>
+<br>
 
 ### <b>SHIFT MANAGEMENT</b>
 
@@ -74,7 +95,7 @@ of a certain day. You can choose to view the Z-Reading of a specific date.
 
 <img src="_features\3ShiftManage\5b.png" alt="1a" width="650" height="366">
 
-<br><br>
+<br>
 
 ### <b>INVENTORY MANAGEMENT</b>
 
@@ -112,7 +133,7 @@ Items are separated by warehouses.
 
 <img src="_features\4InvManage\7c.png" alt="1a" width="650" height="366">
 
-<br><br>
+<br>
 
 ### <b>QUICKBOOKS SYNCHRONIZATION</b>
 
@@ -124,7 +145,7 @@ generates a sales receipt with the list of items, discounts, refunds,
 cash ins and cash outs, making it easier for you to keep track of
 your accounts.
 
-<br><br>
+<br>
 
 ### <b>PRINT GROUP ORDER</b>
 
@@ -148,7 +169,7 @@ your accounts.
 
 <img src="_features\6PrintGroup\3f.png" alt="1a" width="650" height="366">
 
-<br><br>
+<br>
 
 ### <b>OPEN TICKETS</b>
 
@@ -173,7 +194,7 @@ making it a complete transaction.
 
 <img src="_features\7OpenTicket\3g.png" alt="1a" width="650" height="366">
 
-<br><br>
+<br>
 
 ### <b>PREDEFINED TICKETS</b>
 
@@ -198,7 +219,7 @@ to quickly assign names to your open tickets.
 
 <img src="_features\8PreTicket\3h.png" alt="1a" width="650" height="366">
 
-<br><br>
+<br>
 
 ### <b>DINING OPTIONS</b>
 
@@ -231,7 +252,7 @@ dine in, take out, or delivery.
 
 <img src="_features\9Dining\5i.png" alt="1a" width="650" height="366">
 
-<br><br>
+<br>
 
 ### <b>ERPNext</b>
 
@@ -239,7 +260,7 @@ dine in, take out, or delivery.
 
 > You can also integrate your settings with the ERPNext settings.
 
-<br><br>
+<br>
 
 ### <b>ONLINE STORE</b>
 
@@ -272,7 +293,7 @@ online.
 
 <img src="_features\11OnlineStore\5j.png" alt="1a" width="650" height="366">
 
-<br><br>
+<br>
 
 ### <b>PARTIAL PAYMENT</b>
 
@@ -289,7 +310,7 @@ total amount partially.
 
 <img src="_features\12Partial\2k.png" alt="1a" width="650" height="366">
 
-<br><br>
+<br>
 
 ### <b>BIR REGISTERED</b>
 
@@ -299,7 +320,7 @@ total amount partially.
 Revenues. BIR accreditation is an essential regulation. KaHero
 POS will assist you with that.
 
-<br><br>
+<br>
 
 ### <b>SALES ANALYTICS</b>
 
