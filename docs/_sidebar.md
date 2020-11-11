@@ -1,6 +1,10 @@
-* [INTRODUCTION](/)
-* [FEATURES](features.md)
-* [INITIAL STEPS](initialsteps.md)
-* [APPLICATION NAVIGATION](navigation.md)
-* [OPERATIONS](operations.md)
-* [CONTACT INFORMATION](contact.md)
+- Getting Started
+  - [Introduction](README.md)
+  - [Getting Started](gettingstarted.md)
+  - [Setting Up](setup.md)
+  - [Adding Items & Categories](additems.md)
+  - [Configuring Taxes](taxes.md)
+  - [Creating & Configuring Discounts](discounts.md)
+  - [Making Sales](register.md)
+
+- Sales
