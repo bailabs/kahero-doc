@@ -2,35 +2,41 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>KaHero Manual</title>
+  <title>KaHero POS</title>
+  <link rel="icon" href="assets/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="description" content="Save the day with KaHero POS!">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//unpkg.com/docsify@4.8.0/lib/themes/vue.css">
+  <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500|Source+Sans+Pro:400,400i,600" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
   <div id="app"></div>
-
-  <!--COVER PAGE-->
+  <img src="https://d15d9sd7a1ej2f.cloudfront.net/i" style="opacity: 0;" />
   <script>
     window.$docsify = {
-      coverpage: ['/', '/zh-cn/'],
+      name: '<img src="_images/120x120.png" data-origin="_images/120x120.png" alt="KaHero Logo" class="sidebar-logo">KaHero POS',
       loadSidebar: true,
-      alias: {
-      '/.*/_sidebar.md': '/_sidebar.md',
-       },
-      subMaxLevel: 3
+      coverpage: true,
+      auto2top: true,
+      autoHeader: false,
+      subMaxLevel: 3,
+      maxLevel: 4,
+      repo: '//github.com/bailabs/kahero-doc',
+      search: {
+        paths: 'auto',
+        placeholder: 'Search Manual...',
+        noData: 'No Results.',
+      }
     }
   </script>
-
-  <!--OTHERS-->
-  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-
-  <!-- plugins -->
-  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-
-  
+  <script src="//unpkg.com/docsify@4.8.0/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-scss.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-json.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-c.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-objectivec.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>

@@ -1,6 +1,5 @@
 - Getting Started
-  - [Introduction](README.md)
-  - [Getting Started](gettingstarted.md)
+  - [Getting Started](README.md)
   - [Setting Up](setup.md)
   - [Adding Items & Categories](additems.md)
   - [Configuring Taxes](taxes.md)
