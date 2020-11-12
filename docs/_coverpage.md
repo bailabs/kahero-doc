@@ -1,4 +1,4 @@
-![logo](_images/120x120.png)
+![logo](_content/_images/120x120.png)
 
 # <strong>KaHero POS</strong>
 
