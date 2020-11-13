@@ -14,18 +14,18 @@ Once you have installed KaHero POS on your device, setting up your business sett
 
 <p><img src="_content/_setup/3.png" alt="mobile number" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>3. Add your business's mobile number. This is useful when you have set up an online store or you have registered to KaHero's PRO version. KaHero POS will send notifications to your mobile number.</p>
 
-<br><br><br>
+<br><br>
 
 <p><img src="_content/_setup/4.png" alt="barcode" width="480" height="270" style="float:left; margin-right:1rem"><br><br>4. If you have a scanning device, set up your store's <b>Barcode Mode</b>.
-<h5><i>
+<h5>
 <ul style="float:left; margin-left:1rem">
 <li><b>Camera</b> - built-in camera of mobile devices</li>
 <li><b>Scanner</b> - barcode reader device</li>
-</ul></i>
+</ul>
 </h5>
 </p>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <p><img src="_content/_setup/5.png" alt="country" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>5. Choose which country your business is located and it will automatically suggest your currency for you.</p>
 
@@ -36,22 +36,22 @@ Once you have installed KaHero POS on your device, setting up your business sett
 <br><br><br><br><br>
 
 <p><img src="_content/_setup/7.png" alt="receipt 1" width="480" height="270" style="float:left; margin-right:1rem"><br><br>7. With KaHero POS, you are able to print receipts. Set up your <b>Receipt Settings</b>.
-<h5><i>
+<h5>
 <ol type="a" style="float:left; margin-left:1rem">
 <li><b>Receipt Logo</b> - upload a photo that you want to appear on your receipt</li>
-<li><b>Receipt Device</b> - assign mobile device that you will use to generate sales receipt</li>
+<li><b>Receipt Device</b> - assign mobile device that you will use to generate<br>sales receipt</li>
 <li><b>Receipt Header</b> - input your receipt header text</li>
-</ol></i>
+</ol>
 </h5></p>
 
 <br><br><br><br><br>
 
 <p><img src="_content/_setup/8.png" alt="receipt 2" width="480" height="270" style="float:left; margin-right:1rem"><br><br>
-<h5><i>
+<h5>
 <ol start="4" type="a" style="float:left; margin-left:1rem">
 <li><b>Receipt Footer</b> - input your receipt footer text</li>
 <li><b>Receipt Company Address</b> - input your company address</li>
-</ol></i>
+</ol>
 </h5></p>
 
 <br><br><br><br><br><br><br>

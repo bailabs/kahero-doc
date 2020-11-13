@@ -7,13 +7,13 @@ The Register is where you make sales transactions.
 <br><br><br><br><br>
 
 <p><img src="_content/_register/1b.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br>2. This is your register screen. This is where your transactions happen.
-<h5><i>
+<h5>
 <ol style="float:left; margin-left:1rem">
 <li> Click on the item's icon to add items to your ticket.</li>
 <li> Sort your items according to their assigned categories.</li>
 <li> Manually search for items you want to add to your ticket.</li>
 </ol>
-</h5></i></p>
+</h5></p>
 
 <br><br><br><br><br><br><br>
 
@@ -22,7 +22,7 @@ The Register is where you make sales transactions.
 <br><br><br><br><br>
 
 <p><img src="_content/_register/1d.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br>4. Tap on an item on your ticket to change any details.
-<h5><i>
+<h5>
 <ol type="a" style="float:left; margin-left:1rem">
 <li>You can add or subtract the item's quantity.</li>
 <li>Select a created discount to apply to your item.</li>
@@ -30,20 +30,20 @@ The Register is where you make sales transactions.
 <li>You can manually add a discount percent to your item.</li>
 <li>You can add a note to your item.</li>
 </ol>
-</h5></i>
+</h5>
 </p>
 
 <br><br><br><br><br><br><br>
 
 <p><img src="_content/_register/1e.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br>
-<h5><i>
+<h5>
 <ol type="a" style="float:left; margin-left:1rem">
-<li>Discount - apply a discount to the entire ticket</li>
-<li>Barcode - instead of the items screen, a scanning screen will<br>appear for you to scan your items using the barcode mode you have set.</li>
-<li>Print Bill - you can print tickets or bills even before payment.</li>
-<li>Delete Ticket - delete the entire ticket</li>
+<li><b>Discount</b> - apply a discount to the entire ticket</li>
+<li><b>Barcode</b> - instead of the items screen, a scanning screen will<br>appear for you to scan your items using the barcode mode you have set.</li>
+<li><b>Print Bill</b> - you can print tickets or bills even before payment.</li>
+<li><b>Delete Ticket</b> - delete the entire ticket</li>
 </ol>
-</h5></i></p>
+</h5></p>
 
 <br><br><br><br><br><br><br><br>
 
@@ -52,7 +52,7 @@ The Register is where you make sales transactions.
 <br><br><br><br>
 
 <p><img src="_content/_register/1g.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br>6. This is your payment screen.
-<h5><i>
+<h5>
 <ol type="a" style="float:left; margin-left:1rem">
 <li>This is a summary of your customer's order.</li>
 <li>You can select the mode of payment.</li>
@@ -60,7 +60,7 @@ The Register is where you make sales transactions.
 <li>Here are preset amounts for easy access.</li>
 <li>KaHero automatically calculates the change for you.</li>
 </ol>
-</h5></i></p>
+</h5></p>
 
 <br><br><br><br><br><br><br>
 

@@ -17,26 +17,26 @@ Items are an important factor in businesses. Adding items to your account is qui
 <br><br><br><br><br>
 
 <p><img src="_content/_adding/1d.png" alt="item details" width="480" height="270" style="float:left; margin-right:1rem"><br>4. On the Add Item screen, you can input your item's details.
-<h5><i><ol type="a" style="float:left; margin-left:1rem">
-<li>Item Name - set item's name to display on the register</li>
-<li>Item Price - set item's price to display on the register</li>
-<li>Warehouse - set item's storage location</li>
-<li>Beginning Qty - set beginning item quantity upon input on the POS</li>
-<li>Sale Item - enable or disable item as a sales item or just a stock item</li>
+<h5><ol type="a" style="float:left; margin-left:1rem">
+<li><b>Item Name</b> - set item's name to display on the register</li>
+<li><b>Item Price</b> - set item's price to display on the register</li>
+<li><b>Warehouse</b> - set item's storage location</li>
+<li><b>Beginning Qty</b> - set beginning item quantity upon input on the POS</li>
+<li><b>Sale Item</b> - enable or disable item as a sales item or just a stock item</li>
 </ol></i></h5>
 </p>
 
 <br><br><br><br><br><br><br>
 
 <p><img src="_content/_adding/1e.png" alt="details 2" width="480" height="270" style="float:left; margin-right:1rem">
-<h5><i><ol type="a" style="float:left; margin-left:1rem">
-<li>Category - select a category to assign your item to</li>
-<li>SKU - set item's Stock Keeping Unit to identify that item</li>
-<li>Barcode - manually input barcode of the item</li>
-<li>Barcode Scan icon - allows you to use a scanner device to scan the <br>code of an item</li>
-<li>Item Cost - input cost of item upon purchase for stock</li>
-<li>Sold By - set whether your item is to be sold by individually or by weight</li>
-</ol></i></h5></p>
+<h5><ol type="a" style="float:left; margin-left:1rem">
+<li><b>Category</b> - select a category to assign your item to</li>
+<li><b>SKU</b> - set item's Stock Keeping Unit to identify that item</li>
+<li><b>Barcode</b> - manually input barcode of the item</li>
+<li><b>Barcode Scan icon</b> - allows you to use a scanner device to scan the <br>code of an item</li>
+<li><b>Item Cost</b> - input cost of item upon purchase for stock</li>
+<li><b>Sold By</b> - set whether your item is to be sold by individually or by weight</li>
+</ol></h5></p>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -60,12 +60,12 @@ It is important to be systematic when running a business. It is easier for you t
 
 <br><br><br><br>
 
-<p><img src="_content/_adding/2c.png" alt="navigation menu" width="480" height="270" style="float:left; margin-right:1rem"><br>3. Input your category details.<h5><i><ol type="a" style="float:left; margin-left:1rem">
-<li>Category Name - label your category</li>
-<li>Sort ID - set your category ID for sorting with "1" as the highest.<br>This is useful to quickly sort your categories according to which<br>items are best-sellers.</li>
+<p><img src="_content/_adding/2c.png" alt="navigation menu" width="480" height="270" style="float:left; margin-right:1rem"><br>3. Input your category details.<h5><ol type="a" style="float:left; margin-left:1rem">
+<li><b>Category Name</b> - label your category</li>
+<li><b>Sort ID</b> - set your category ID for sorting with "1" as the highest.<br>This is useful to quickly sort your categories according to which<br>items are best-sellers.</li>
 <li>Assign a color for your category.</li>
-<li>Click <i>Assign Item</i> to select which items to include in this category.</li>
-</ol></i></h5></p>
+<li>Click <b>Assign Item</b> to select which items to include in this category.</li>
+</ol></h5></p>
 
 <br><br><br><br><br><br><br>
 

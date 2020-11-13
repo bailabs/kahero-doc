@@ -20,6 +20,6 @@ KaHero POS allows you to add taxes to your items.
 
 <p><img src="_content/_taxes/1e.png" alt="apply" width="480" height="270" style="float:left; margin-right:1rem"><br><br>5. Select your Tax Application. <b>"Apply the tax to the new items"</b> means this tax will applicable to newly added items after the creation of the tax. <b>"Apply the tax to existing items"</b> means the tax will be applied to items already input before the creation of the tax.</p>
 
-<br><br><br>
+<br><br>
 
 >Click <i>Save</i> and your taxes will now be applied to your items.

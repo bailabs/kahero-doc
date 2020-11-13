@@ -18,7 +18,7 @@
 body {
   font-size: 100%;
   line-height: 1.5;
-  font-family: 'Source Sans Pro','Open Sans','Helvetica Neue',Arial,sans-serif;
+  font-family: Helvetica, sans-serif;
   color: var(--text-color-base);
 }
 
@@ -28,6 +28,10 @@ body {
 
 a {
   transition: all 0.3s linear;
+}
+
+h5 {
+  font-weight: normal;
 }
 
 div.search {
@@ -50,7 +54,7 @@ div.search {
 
 aside.sidebar {
   border: none;
-  background-color: #0682a6;
+  background-color: #005168;
   color: #fff;
 }
 
