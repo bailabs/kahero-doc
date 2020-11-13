@@ -4,44 +4,73 @@
 
 Items are an important factor in businesses. Adding items to your account is quite easy and quick in KaHero POS.
 
-<p><img src="_content/_adding/1a.png" alt="nav" width="400" height="225" style="float:left; margin-right:1rem"><br><br><br>1. After logging in, on your current screen,<br>click on the <b>Navigation Menu</b> button.</p>
+<p><img src="_content/_adding/1a.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. After logging in, on your current screen,<br>click on the <b>Navigation Menu</b> button.</p>
 
-<br><br>
+<br><br><br><br>
 
-<p><img src="_content/_adding/1b.png" alt="listings" width="400" height="225" style="float:left; margin-right:1rem"><br><br><br>2. Under <b>Listings</b>, Select <b>Items</b>.</p>
+<p><img src="_content/_adding/1b.png" alt="listings" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>2. Under <b>Listings</b>, Select <b>Items</b>.</p>
 
-<br><br><br>
+<br><br><br><br><br>
 
-<p><img src="_content/_adding/1c.png" alt="add item" width="400" height="225" style="float:left; margin-right:1rem"><br><br><br>3. Click <b>Add an Item</b>.</p>
+<p><img src="_content/_adding/1c.png" alt="add item" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>3. Click <b>Add an Item</b>.</p>
 
-<br><br><br>
+<br><br><br><br><br>
 
-<p><img src="_content/_adding/1d.png" alt="item details" width="400" height="225" style="float:left; margin-right:1rem"><br><br><br>4. On the Add Item screen, you can input your item's details.</p>
+<p><img src="_content/_adding/1d.png" alt="item details" width="480" height="270" style="float:left; margin-right:1rem"><br>4. On the Add Item screen, you can input your item's details.
+<h5><i><ol type="a" style="float:left; margin-left:1rem">
+<li>Item Name - set item's name to display on the register</li>
+<li>Item Price - set item's price to display on the register</li>
+<li>Warehouse - set item's storage location</li>
+<li>Beginning Qty - set beginning item quantity upon input on the POS</li>
+<li>Sale Item - enable or disable item as a sales item or just a stock item</li>
+</ol></i></h5>
+</p>
 
-<br><br><br>
+<br><br><br><br><br><br><br>
 
-<p><img src="_content/_adding/1e.png" alt="details 2" width="400" height="225" style="float:left; margin-right:1rem"><br><br><br>5. Under the details section, assign a category for your item.<br>Set your item's SKU, barcode, and item cost.</p>
+<p><img src="_content/_adding/1e.png" alt="details 2" width="480" height="270" style="float:left; margin-right:1rem">
+<h5><i><ol type="a" style="float:left; margin-left:1rem">
+<li>Category - select a category to assign your item to</li>
+<li>SKU - set item's Stock Keeping Unit to identify that item</li>
+<li>Barcode - manually input barcode of the item</li>
+<li>Barcode Scan icon - allows you to use a scanner device to scan the <br>code of an item</li>
+<li>Item Cost - input cost of item upon purchase for stock</li>
+<li>Sold By - set whether your item is to be sold by individually or by weight</li>
+</ol></i></h5></p>
 
-<br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
-<p><img src="_content/_adding/1f.png" alt="representation" width="400" height="225" style="float:left; margin-right:1rem"><br><br><br>6. On the bottom of the screen, you can assign a color or image<br>to your item that will be displayed on the register.</p>
+<p><img src="_content/_adding/1f.png" alt="representation" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>6a. Assign a representation color to your item. This is how it will be displayed on your register screen.</p>
 
-<br><br>
+<br><br><br><br>
+
+<p><img src="_content/_adding/1g.png" alt="representation" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>6b. Upload an image to represent your item. This is how it will be displayed on your register screen.</p>
+
+<br><br><br><br>
 
 ## **Adding Categories**
 
 It is important to be systematic when running a business. It is easier for you to keep track of your items when you categorize them. Adding and assigning categories to your items is easy and quick with KaHero POS.
 
-<p><img src="_content/_adding/2a.png" alt="listings" width="400" height="225" style="float:left; margin-right:1rem"><br><br><br>1. Under <b>Listings</b>, Select <b>Categories</b>.</p>
+<p><img src="_content/_adding/2a.png" alt="listings" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. Under <b>Listings</b>, Select <b>Categories</b>.</p>
 
-<br><br><br>
+<br><br><br><br><br>
 
-<p><img src="_content/_adding/2b.png" alt="add category" width="400" height="225" style="float:left; margin-right:1rem"><br><br><br>2. Click <b>Add a Category</b>.</p>
+<p><img src="_content/_adding/2b.png" alt="add category" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br><br>2. Click <b>Add a Category</b>.</p>
 
-<br><br><br>
+<br><br><br><br>
 
-<p><img src="_content/_adding/2c.png" alt="navigation menu" width="400" height="225" style="float:left; margin-right:1rem"><br><br><br>3. Input your category details. Assign a color to your category.</p>
+<p><img src="_content/_adding/2c.png" alt="navigation menu" width="480" height="270" style="float:left; margin-right:1rem"><br>3. Input your category details.<h5><i><ol type="a" style="float:left; margin-left:1rem">
+<li>Category Name - label your category</li>
+<li>Sort ID - set your category ID for sorting with "1" as the highest.<br>This is useful to quickly sort your categories according to which<br>items are best-sellers.</li>
+<li>Assign a color for your category.</li>
+<li>Click <i>Assign Item</i> to select which items to include in this category.</li>
+</ol></i></h5></p>
 
-<br><br><br>
+<br><br><br><br><br><br><br>
+
+<p><img src="_content/_adding/2d.png" alt="navigation menu" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br><br>4. Select the items you want to include in the category.</p>
+
+<br><br><br><br>
 
 > You can now start using the register and make your sales!

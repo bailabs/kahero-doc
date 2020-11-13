@@ -6,4 +6,4 @@
 
 [Getting Started](README.md)
 
-![](_images/a1.png)
+![](_content/_images/a1.png)
