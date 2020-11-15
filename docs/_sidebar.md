@@ -9,6 +9,7 @@
   - [Making Sales](/_gettingstarted/register.md)
 
 - Sales
+  - [Changing Sales Screen Layout](/_sales/salesscreen.md)
   - [Selling Items by Weight](/_sales/weight.md)
   - [Selling Liquids](liquids.md)
   - [Using Barcode Mode](barcode.md)
