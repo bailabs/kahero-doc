@@ -1,9 +1,17 @@
 - Getting Started
   - [Getting Started](README.md)
-  - [Setting Up](setup.md)
-  - [Adding Items & Categories](adding.md)
-  - [Configuring Taxes](taxes.md)
-  - [Creating & Configuring Discounts](discounts.md)
-  - [Making Sales](register.md)
+  - [Setting Up](/_gettingstarted/setup.md)
+  - [Activating Features](/_gettingstarted/activate.md)
+  - [List of Features](/_gettingstarted/features.md)
+  - [Adding Items & Categories](/_gettingstarted/adding.md)
+  - [Configuring Taxes](/_gettingstarted/taxes.md)
+  - [Creating & Configuring Discounts](/_gettingstarted/discounts.md)
+  - [Making Sales](/_gettingstarted/register.md)
 
 - Sales
+  - [Selling Items by Weight](/_sales/weight.md)
+  - [Selling Liquids](liquids.md)
+  - [Using Barcode Mode](barcode.md)
+  - [Applying Discounts](applyingdiscounts.md)
+  - [Printing Bills](bills.md)
+  - [Receipts & Refunds](refunds.md)

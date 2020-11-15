@@ -17,19 +17,19 @@ Items are an important factor in businesses. Adding items to your account is qui
 <br><br><br><br><br>
 
 <p><img src="_content/_adding/1d.png" alt="item details" width="480" height="270" style="float:left; margin-right:1rem"><br>4. On the Add Item screen, you can input your item's details.
-<h5><ol type="a" style="float:left; margin-left:1rem">
+<h5><ol type="A" style="float:left; margin-left:1rem">
 <li><b>Item Name</b> - set item's name to display on the register</li>
 <li><b>Item Price</b> - set item's price to display on the register</li>
 <li><b>Warehouse</b> - set item's storage location</li>
 <li><b>Beginning Qty</b> - set beginning item quantity upon input on the POS</li>
 <li><b>Sale Item</b> - enable or disable item as a sales item or just a stock item</li>
-</ol></i></h5>
+</ol></h5>
 </p>
 
 <br><br><br><br><br><br><br>
 
 <p><img src="_content/_adding/1e.png" alt="details 2" width="480" height="270" style="float:left; margin-right:1rem">
-<h5><ol type="a" style="float:left; margin-left:1rem">
+<h5><ol type="A" style="float:left; margin-left:1rem">
 <li><b>Category</b> - select a category to assign your item to</li>
 <li><b>SKU</b> - set item's Stock Keeping Unit to identify that item</li>
 <li><b>Barcode</b> - manually input barcode of the item</li>
@@ -40,11 +40,11 @@ Items are an important factor in businesses. Adding items to your account is qui
 
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img src="_content/_adding/1f.png" alt="representation" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>6a. Assign a representation color to your item. This is how it will be displayed on your register screen.</p>
+<p><img src="_content/_adding/1f.png" alt="representation" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>6A. Assign a representation color to your item. This is how it will be displayed on your register screen.</p>
 
 <br><br><br><br>
 
-<p><img src="_content/_adding/1g.png" alt="representation" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>6b. Upload an image to represent your item. This is how it will be displayed on your register screen.</p>
+<p><img src="_content/_adding/1g.png" alt="representation" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>6B. Upload an image to represent your item. This is how it will be displayed on your register screen.</p>
 
 <br><br><br><br>
 
@@ -60,7 +60,7 @@ It is important to be systematic when running a business. It is easier for you t
 
 <br><br><br><br>
 
-<p><img src="_content/_adding/2c.png" alt="navigation menu" width="480" height="270" style="float:left; margin-right:1rem"><br>3. Input your category details.<h5><ol type="a" style="float:left; margin-left:1rem">
+<p><img src="_content/_adding/2c.png" alt="navigation menu" width="480" height="270" style="float:left; margin-right:1rem"><br>3. Input your category details.<h5><ol type="A" style="float:left; margin-left:1rem">
 <li><b>Category Name</b> - label your category</li>
 <li><b>Sort ID</b> - set your category ID for sorting with "1" as the highest.<br>This is useful to quickly sort your categories according to which<br>items are best-sellers.</li>
 <li>Assign a color for your category.</li>

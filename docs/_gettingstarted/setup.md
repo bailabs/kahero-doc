@@ -2,7 +2,7 @@
 
 Once you have installed KaHero POS on your device, setting up your business settings is the next step.
 
-## **General Settings**
+## **General Settings** <!-- {docsify-ignore} -->
 
 <p><img src="_content/_setup/1.png" alt="general settings" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b> under <b>Settings</b>,<br>select <b>General Settings</b>.</p>
 
@@ -18,10 +18,10 @@ Once you have installed KaHero POS on your device, setting up your business sett
 
 <p><img src="_content/_setup/4.png" alt="barcode" width="480" height="270" style="float:left; margin-right:1rem"><br><br>4. If you have a scanning device, set up your store's <b>Barcode Mode</b>.
 <h5>
-<ul style="float:left; margin-left:1rem">
+<ol type="A" style="float:left; margin-left:1rem">
 <li><b>Camera</b> - built-in camera of mobile devices</li>
 <li><b>Scanner</b> - barcode reader device</li>
-</ul>
+</ol>
 </h5>
 </p>
 
@@ -37,7 +37,7 @@ Once you have installed KaHero POS on your device, setting up your business sett
 
 <p><img src="_content/_setup/7.png" alt="receipt 1" width="480" height="270" style="float:left; margin-right:1rem"><br><br>7. With KaHero POS, you are able to print receipts. Set up your <b>Receipt Settings</b>.
 <h5>
-<ol type="a" style="float:left; margin-left:1rem">
+<ol type="A" style="float:left; margin-left:1rem">
 <li><b>Receipt Logo</b> - upload a photo that you want to appear on your receipt</li>
 <li><b>Receipt Device</b> - assign mobile device that you will use to generate<br>sales receipt</li>
 <li><b>Receipt Header</b> - input your receipt header text</li>
@@ -48,7 +48,7 @@ Once you have installed KaHero POS on your device, setting up your business sett
 
 <p><img src="_content/_setup/8.png" alt="receipt 2" width="480" height="270" style="float:left; margin-right:1rem"><br><br>
 <h5>
-<ol start="4" type="a" style="float:left; margin-left:1rem">
+<ol start="4" type="A" style="float:left; margin-left:1rem">
 <li><b>Receipt Footer</b> - input your receipt footer text</li>
 <li><b>Receipt Company Address</b> - input your company address</li>
 </ol>
@@ -57,14 +57,3 @@ Once you have installed KaHero POS on your device, setting up your business sett
 <br><br><br><br><br><br><br>
 
 > Once you are done setting up your business details, click <i>Save</i>.
-
-## **Activating Features**
-
-<p><img src="_content/_setup/9.png" alt="receipts" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br><br>9. On the <b>Navigation Menu</b> under <b>Settings</b>, select <b>Features</b>.</p>
-
-<br><br><br><br>
-
-<p><img src="_content/_setup/10.png" alt="receipts" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br><br>Here, you can find which features you want to activate.<br>Some features are only available on the PRO version.</p>
-
-<br><br><br>
-> Once you are done activating features, click <i>Save</i>.
