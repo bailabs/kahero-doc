@@ -9,10 +9,16 @@
   - [Making Sales](/_gettingstarted/register.md)
 
 - Sales
-  - [Changing Sales Screen Layout](/_sales/salesscreen.md)
   - [Selling Items by Weight](/_sales/weight.md)
-  - [Selling Liquids](liquids.md)
-  - [Using Barcode Mode](barcode.md)
-  - [Applying Discounts](applyingdiscounts.md)
-  - [Printing Bills](bills.md)
-  - [Receipts & Refunds](refunds.md)
+  - [Selling Liquid Products](/_sales/liquids.md)
+  - [Using Barcode Mode](/_sales/barcode.md)
+  - [Using Dining Options](/_sales/dining.md)
+  - [Using Open Tickets](/_sales/opentickets.md)
+  - [Using Predefined Tickets](/_sales/predefined.md)
+  - [Applying Discounts](/_sales/applyingdiscounts.md)
+  - [Printing Bills](/_sales/bills.md)
+  - [Using Partial Payment](/_sales/partial.md)
+  - [Receipts & Refunds](/_sales/refunds.md)
+
+- Items
+  - [Items Listing Navigation](/_items/items.md)

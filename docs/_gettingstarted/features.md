@@ -8,7 +8,7 @@ made even if you are not connected to the internet. But you may need to connect 
 
 <br>
 
-### **Employee Management**
+### **Employee Management** (PRO only)
 
 <p><img src="_content/_features/2.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br> KaHero POS helps you manage your employee's work information and lets you keep track of their shifts. Use this to make it easier for you to keep track of your employee's in and out time. This allows your employees to take a selfie and it will automatically record what time the picture was taken. This feature allows you to see a complete list of your each of your employee's shifts.</p>
 
@@ -21,7 +21,7 @@ KaHero POS lets you manage the shifts between your employees. You need to start 
 
 <br><br>
 
-### **Inventory Management**
+### **Inventory Management** (PRO only)
 
 <p><img src="_content/_features/4.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem">KaHero POS allows you to manage your inventory and the movement of your stock items. You can add your warehouse storages and sort your item stocks according to their assigned warehouse. You can also create <b>item bundles</b> to label items that are composed of other items. Item Bundles are helpful for keeping track of ingredient stocks. This also allows you to transfer stocks from one warehouse to another. The <b>item ledger</b> keeps track of the movement of your items around KaHero POS.</p>
 
@@ -33,7 +33,7 @@ KaHero POS lets you manage the shifts between your employees. You need to start 
 
 <br>
 
-### **Print Group Order**
+### **Print Group Order** (PRO only)
 
 <p><img src="_content/_features/6.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br>The Print Group Order feature is useful when communicating with other staffs when preparing orders. Printer Groups lets you assign only specific item categories that will be printed on a certain printer group. You can assign an actual printer to print the orders with only the items on the categories you have included in this printer group.</p>
 
@@ -63,19 +63,19 @@ KaHero POS lets you manage the shifts between your employees. You need to start 
 
 <br><br>
 
-### **Online Store**
+### **Online Store** (PRO only)
 
 <p><img src="_content/_features/11.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br>KaHero POS allows you to connect your online store to the POS. This allows your customers to make orders online through the online store website you will be providing.</p>
 
 <br><br><br>
 
-### **Partial Payment**
+### **Partial Payment** (PRO only)
 
 <p><img src="_content/_features/12.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br>Partial Payment allows your customers to pay for their total amount in a partial amount.</p>
 
 <br><br><br><br>
 
-### **BIR Registered**
+### **BIR Registered** (PRO only)
 
 <p><img src="_content/_features/13.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br> KaHero POS is registered to the Bureau of Internal Revenues. BIR accreditation is an essential regulation for business. KaHero POS will assist you with that.</p>
 
