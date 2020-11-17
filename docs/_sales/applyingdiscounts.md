@@ -8,12 +8,12 @@ Once you have created and configured discounts, you can apply to your transactio
 
 <br><br><br><br>
 
-<p><img src="_content/_applydiscounts/2.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br>2. Select how to apply your discount.
+<p><img src="_content/_applydiscounts/2.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br>2. Select how to apply your discount. Even with already preset discounts, you can still temporarily change to a specific discount amount or percent depending on how your transaction goes.
 <h5>
 <ol type="A" style="float:left; margin-left:1rem">
-<li>Select an already created discount.</li>
-<li>Input specific discount amount.</li>
-<li>Input specific discount percent.</li>
+<li>Select an already created discount or</li>
+<li>Input desired or specific discount amount on this field.</li>
+<li>Input desired or specific discount percent on this field.</li>
 </ol>
 </h5></p>
 
@@ -29,12 +29,12 @@ Once you have created and configured discounts, you can apply to your transactio
 
 ## **Discount to Individual Items**
 
-<p><img src="_content/_applydiscounts/5.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br>1. Tap on an item on the current ticket.
+<p><img src="_content/_applydiscounts/5.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br>1. Tap on an item on the current ticket. Even with already preset discounts, you can still temporarily change to a specific discount amount or percent depending on how your transaction goes.
 <h5>
 <ol type="A" style="float:left; margin-left:1rem">
 <li>Select an already created discount.</li>
-<li>Input specific discount amount.</li>
-<li>Input specific discount percent.</li>
+<li>Input desired or specific discount amount on this field.</li>
+<li>Input desired or specific discount percent on this field.</li>
 </ol>
 </h5></p>
 

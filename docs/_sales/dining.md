@@ -1,7 +1,6 @@
 # **Using Dining Options**
 
-Once you have activated KaHero POS's dining option feature, you are able to assign dining options to your customers' orders on the register.
-
+The dining option feature allows you to add your customer's mode of dining such as dine in, take out, or for delivery on the register. Once you have activated KaHero POS's dining option feature, you are able to assign dining options to your customers' orders on the register.
 
 ## Adding Dining Options
 
@@ -27,6 +26,8 @@ Once you have activated KaHero POS's dining option feature, you are able to assi
 <br><br><br><br><br>
 
 ## Dining Options Fees
+
+Dining option fees are fees assigned to your dining options which will be applied to your transactions.
 
 <p><img src="_content/_dining/4.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b> under <b>Settings</b>, Select <b>Dining Option Fees</b>.</p>
 

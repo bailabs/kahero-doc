@@ -2,6 +2,8 @@
 
 Receipts play an important role on business. They are proofs of transactions. However, it is also inevitable that customers request refunds due to several reasons.
 
+## **Refunding Receipts**
+
 <p><img src="_content/_refunds/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b>, select <b>Receipts</b> to go to your receipts page.</p>
 
 <br><br><br><br>
@@ -16,4 +18,36 @@ Receipts play an important role on business. They are proofs of transactions. Ho
 
 <p><img src="_content/_refunds/4.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>4. Your refund receipt should show on the receipts screen.</p>
 
-<br><br><br><br><br>
+<br><br><br><br>
+
+## **Emailing Receipts**
+
+KaHero POS allows you to send and email receipts whenever your customers may request.
+
+<p><img src="_content/_refunds/5.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Receipts</b> screen, on the upper right, click on the three aligning dots to show a dropdown menu.</p>
+
+<br><br><br><br>
+
+<p><img src="_content/_refunds/6.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br><br>2. Select <b> Email Receipts</b>.</p>
+
+<br><br><br><br>
+
+<p><img src="_content/_refunds/7.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>3. A pop-up asking for the email receipt's recipient will appear. Input the recipient of the email. Click <b>Okay</b>.</p>
+
+<br><br><br><br>
+
+## **Reprinting Receipts**
+
+KaHero POS allows you to send and email receipts whenever your customers may request.
+
+<p><img src="_content/_refunds/5.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Receipts</b> screen, on the upper right, click on the three aligning dots to show a dropdown menu.</p>
+
+<br><br><br><br>
+
+<p><img src="_content/_refunds/8.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br><br>2. Select <b> Reprint Receipt</b> and the receipt will automatically print.</p>
+
+<br><br><br><br>
+
+<p><img src="_content/_refunds/7.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>3. A pop-up asking for the email receipt's recipient will appear. Input the recipient of the email. Click <b>Okay</b>.</p>
+
+<br><br><br><br>
