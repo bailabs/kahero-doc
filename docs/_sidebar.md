@@ -9,8 +9,10 @@
   - [Making Sales](/_gettingstarted/register.md)
 
 - Sales
+  - [Item Modifiers](/_sales/modifier.md)
   - [Selling Items by Weight](/_sales/weight.md)
   - [Selling Liquid Products](/_sales/liquids.md)
+  - [Shift Management](/_sales/shift.md)
   - [Using Barcode Mode](/_sales/barcode.md)
   - [Using Dining Options](/_sales/dining.md)
   - [Using Open Tickets](/_sales/opentickets.md)

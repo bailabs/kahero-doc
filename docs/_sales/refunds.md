@@ -34,7 +34,7 @@ KaHero POS allows you to send and email receipts whenever your customers may req
 
 <p><img src="_content/_refunds/7.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>3. A pop-up asking for the email receipt's recipient will appear. Input the recipient of the email. Click <b>Okay</b>.</p>
 
-<br><br><br><br>
+<br><br><br>
 
 ## **Reprinting Receipts**
 
@@ -46,8 +46,24 @@ KaHero POS allows you to send and email receipts whenever your customers may req
 
 <p><img src="_content/_refunds/8.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br><br>2. Select <b> Reprint Receipt</b> and the receipt will automatically print.</p>
 
+<br><br><br>
+
+## **Reprinting Orders**
+
+<p><img src="_content/_refunds/5.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Receipts</b> screen, on the upper right, click on the three aligning dots to show a dropdown menu.</p>
+
 <br><br><br><br>
 
-<p><img src="_content/_refunds/7.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>3. A pop-up asking for the email receipt's recipient will appear. Input the recipient of the email. Click <b>Okay</b>.</p>
+<p><img src="_content/_refunds/9.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br><br>2. Select <b> Reprint Order</b> and the receipt will automatically print the order.</p>
+
+<br><br>
+
+## **Reprinting Receipt & Order**
+
+<p><img src="_content/_refunds/5.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Receipts</b> screen, on the upper right, click on the three aligning dots to show a dropdown menu.</p>
+
+<br><br><br><br>
+
+<p><img src="_content/_refunds/10.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br><br>2. Select <b>Reprint Both</b> to reprint both order and receipt.</p>
 
 <br><br><br><br>

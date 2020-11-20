@@ -51,6 +51,10 @@ Dining option fees are fees assigned to your dining options which will be applie
 
 ## During Sales
 
-<p><img src="_content/_dining/7.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Register</b> screen, select your desired dining option on the drop down.</p>
+<p><img src="_content/_dining/7.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Register</b> screen, select your desired dining option on the drop down. The dining fee will reflect on the total screen.</p>
+
+<br><br><br><br>
+
+<p><img src="_content/_dining/diningoptions.gif" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>Here is a GIF showing changes in the dining fee when choosing different dining options.</p>
 
 <br><br><br><br>

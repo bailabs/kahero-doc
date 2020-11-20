@@ -38,7 +38,7 @@ Once you have created and configured discounts, you can apply to your transactio
 </ol>
 </h5></p>
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <p><img src="_content/_applydiscounts/6.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>2. The discount amount should reflect on the ticket screen and change the price of the discounted item.</p>
 
