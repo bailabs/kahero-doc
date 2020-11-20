@@ -23,4 +23,13 @@
   - [Receipts & Refunds](/_sales/refunds.md)
 
 - Items
-  - [Items Listing Navigation](/_items/items.md)
+  - [Items Listing](/_items/items.md)
+  - [Item Bundles](/_items/bundles.md)
+  - [Items in the Back Office](/_items/backitems.md)
+
+- Inventory Management
+  - [Transferring Stocks](/_inventory/transfer.md)
+  - [Adjusting Stocks](/_inventory/adjust.md)
+  - [Inventory Count](/_inventory/count.md)
+  - [Summary Report](/_inventory/summary.md)
+  - [Movement Report](/_inventory/movement.md)
