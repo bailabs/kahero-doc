@@ -28,8 +28,15 @@
   - [Items in the Back Office](/_items/backitems.md)
 
 - Inventory Management
+  - [Adding Warehouse](/_inventory/warehouse.md)
   - [Transferring Stocks](/_inventory/transfer.md)
   - [Adjusting Stocks](/_inventory/adjust.md)
-  - [Inventory Count](/_inventory/count.md)
+  - [Item Ledger](/_inventory/ledger.md)
   - [Summary Report](/_inventory/summary.md)
   - [Movement Report](/_inventory/movement.md)
+
+- Employees
+  - [Adding Employees](/_employee/adding.md)
+  - [Changing Employees/Users](/_employee/change.md)
+  - [Time Entries](/_employee/time.md)
+  - [Employees - Back Office](/_employee/back.md)

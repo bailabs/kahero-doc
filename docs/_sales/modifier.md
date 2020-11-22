@@ -2,7 +2,7 @@
 
 Item modifiers are item options that can be assigned to items. Examples are product fillings or toppings or add-ons in general.
 
-## **Creating Item Modifiers**
+## Creating Item Modifiers
 
 Item modifiers can only be created on the back office of KaHero POS.
 
@@ -46,7 +46,7 @@ Item modifiers can only be created on the back office of KaHero POS.
 
 <br><br><br>
 
-## **Adding Item Modifiers**
+## Adding Item Modifiers
 
 <p><img src="_content/_modifier/5.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Items</b> tab, select <b>Set Modifier</b> beside the item you want to add modifiers to.</p>
 
@@ -56,7 +56,7 @@ Item modifiers can only be created on the back office of KaHero POS.
 
 <br><br><br><br>
 
-## **Applying Item Modifiers**
+## Applying Item Modifiers
 
 <p><img src="_content/_modifier/11.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. This is how your items with modifier will show on the register.</p>
 

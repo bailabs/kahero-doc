@@ -2,7 +2,7 @@
 
 KaHero POS lets you manage the shifts between your employees and track their working time and sales transactions. Activate the Shift Management features on <b>Settings</b> > <b>Features</b>. You can make transactions only when you have started a shift when this feature is activated.
 
-## **Starting a Shift**
+## Starting a Shift
 
 <p><img src="_content/_shift/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b> under <b>Shift Management</b>, select <b>Open Shift</b> to open your shift.</p>
 
@@ -26,7 +26,7 @@ KaHero POS lets you manage the shifts between your employees and track their wor
 
 <br><br><br><br>
 
-## **Cash Balancing**
+## Cash Balancing
 
 The <b>Cash Balancing</b> tab allows you to make adjustments to your on hand cash whether taking cash out or putting cash in. This is also where you make cash adjustments when your customers close their partial payments.
 
@@ -43,7 +43,7 @@ The <b>Cash Balancing</b> tab allows you to make adjustments to your on hand cas
 
 <br><br><br><br>
 
-## **Ending a Shift**
+## Ending a Shift
 
 <p><img src="_content/_shift/6.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b> under <b>Shift Management</b>, select <b>Close Shift</b> to end your shift.</p>
 
@@ -58,7 +58,7 @@ The <b>Cash Balancing</b> tab allows you to make adjustments to your on hand cas
 
 <br><br><br><br>
 
-## **X-Reading**
+## X-Reading
 
 X-Reading is a sales and transaction report generated every beginning and end of a shift.
 
@@ -80,7 +80,7 @@ X-Reading is a sales and transaction report generated every beginning and end of
 
 <br><br><br><br>
 
-## **Z-Reading**
+## Z-Reading
 
 Z-Reading is a sales and transaction report generated everyday.
 
