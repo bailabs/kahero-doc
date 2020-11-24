@@ -39,4 +39,21 @@
   - [Adding Employees](/_employee/adding.md)
   - [Changing Employees/Users](/_employee/change.md)
   - [Time Entries](/_employee/time.md)
-  - [Employees - Back Office](/_employee/back.md)
+  - [Employees - Back Office](/_employee/eback.md)
+
+- Customers
+  - [Signing Up a Customer](/_customer/sign.md)
+  - [Sending Receipt E-mail](/_customer/receiptemail.md)
+  - [Information & Notes on Receipt](/_customer/information.md)
+  - [Customer - Back Office](/_customer/cback.md)
+  - [Customer Purchase History](/_customer/purchase.md)
+
+- Reports
+  - [Sales Report - Back Office](/_reports/sales.md)
+  - [Shifts Report - Back Office](/_reports/shift.md)
+  - [Sales Inventory - Back Office](/_reports/inventory.md)
+  - [Receipts Reports - Back Office](/_reports/receipts.md)
+  - [X-Reading Report](/_reports/x.md)
+  - [Z-Reading Report](/_reports/z.md)
+  - [Calculation of Taxes](/_reports/taxes.md)
+  - [KaHero Sales Analytics](/_reports/analytics.md)

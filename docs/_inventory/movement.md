@@ -16,10 +16,10 @@ The movement report shows you a report of the adjustments of your item details o
 
 <br><br><br><br><br>
 
-<p><img src="_content/_movement/2.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>3. For example, you added a new item on the listings named "Orange Juice". You can find the addition of the item on a specific date and the details you have input such as the item cost and the quantity in the warehouse.</p>
+<p><img src="_content/_movement/2.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>3. For example, you added a new item on the listings named "Orange Juice". You can find the addition of the item on a specific date and the details you have input such as the <b>A. item cost</b> and the <b>B. quantity</b> in the warehouse.</p>
 
 <br><br>
 
-<p><img src="_content/_movement/3.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>You can also find the total cost of your item and the total price of the total count of the specific item in stock. Click <b>Export</b> to export the movement report.</p>
+<p><img src="_content/_movement/3.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>You can also find the <b>A. total cost</b> of your item and the <b>B. total price</b> of the total count of the specific item in stock. Click <b>Export</b> to export the movement report.</p>
 
 <br><br><br><br>
