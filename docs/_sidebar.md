@@ -46,7 +46,7 @@
   - [Sending Receipt E-mail](/_customer/receiptemail.md)
   - [Information & Notes on Receipt](/_customer/information.md)
   - [Customer - Back Office](/_customer/cback.md)
-  - [Customer Purchase History](/_customer/purchase.md)
+  - [Customer Work-Around](/_customer/purchase.md)
 
 - Reports
   - [Sales Report - Back Office](/_reports/sales.md)
