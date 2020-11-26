@@ -53,7 +53,22 @@
   - [Shifts Report - Back Office](/_reports/shift.md)
   - [Sales Inventory - Back Office](/_reports/inventory.md)
   - [Receipts Reports - Back Office](/_reports/receipts.md)
-  - [X-Reading Report](/_reports/x.md)
-  - [Z-Reading Report](/_reports/z.md)
   - [Calculation of Taxes](/_reports/taxes.md)
   - [KaHero Sales Analytics](/_reports/analytics.md)
+
+- Settings
+  - [Payment Types](/_settings/payment.md)
+  - [Adding Logo - Receipts](/_settings/logo.md)
+  - [Logging Out](/_settings/logout.md)
+  - [Logging Out - Back Office](/_settings/outbo.md)
+  - [Setting Currency](/_settings/currency.md)
+  - [Change/Recover Account](/_settings/recover.md)
+
+- Hardware
+  - [Supported Printers](/_hardware/printer.md)
+  - [Setting Up Ethernet Printer](/_hardware/ethernet.md)
+  - [Setting Up Bluetooth Printer](/_hardware/bt.md)
+  - [Setting Up USB Printer - iOS](/_hardware/usbios.md)
+  - [Setting Up USB Printer - Android](/_hardware/usbandroid.md)
+  - [Troubleshooting](/_hardware/trouble.md)
+  - [Using Printer Group](/_hardware/printergroup.md)
