@@ -60,7 +60,6 @@
   - [Payment Types](/_settings/payment.md)
   - [Adding Logo - Receipts](/_settings/logo.md)
   - [Logging Out](/_settings/logout.md)
-  - [Logging Out - Back Office](/_settings/outbo.md)
   - [Setting Currency](/_settings/currency.md)
   - [Change/Recover Account](/_settings/recover.md)
 
