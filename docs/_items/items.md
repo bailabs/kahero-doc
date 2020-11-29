@@ -4,7 +4,7 @@
 
 Item Options under Item Listings allows you to add variants to your items. For example, if you're selling the same t-shirt with different sizes, you can set a parent item "T-Shirt", and add item options such as "Small", "Medium", or "Large". Item Options allows you to minimize the space taken up by your items.
 
-<p><img src="_content/_items/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b> under <b>Listings</b>, Select <b>Items</b>.</p>
+<p><img src="_content/_items/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b> under <b>Listings</b>, select <b>Items</b>.</p>
 
 <br><br><br><br><br>
 
