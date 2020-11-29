@@ -1,4 +1,4 @@
-# **Using Kitchen Printer Groups**
+# **Supported Barcode Scanners***
 
 At times, we cannot avoid that we may forget our accounts and passwords. Luckily, KaHero POS allows you to record or change your account details.
 

@@ -69,5 +69,7 @@
   - [Setting Up Bluetooth Printer](/_hardware/bt.md)
   - [Setting Up USB Printer - iOS](/_hardware/usbios.md)
   - [Setting Up USB Printer - Android](/_hardware/usbandroid.md)
+  - [Supported Barcode Scanners](/_hardware/barcode.md)
+  - [Connecting Cash Drawer](/_hardware/cash.md)
   - [Troubleshooting](/_hardware/trouble.md)
-  - [Using Printer Group](/_hardware/printergroup.md)
+  - [Using Kitchen Printer Group](/_hardware/printergroup.md)
