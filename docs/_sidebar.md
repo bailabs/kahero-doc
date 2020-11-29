@@ -21,6 +21,7 @@
   - [Printing Bills](/_sales/bills.md)
   - [Using Partial Payment](/_sales/partial.md)
   - [Receipts & Refunds](/_sales/refunds.md)
+  - [Deleting Transactions](/_sales/delete.md)
 
 - Items
   - [Items Listing](/_items/items.md)
