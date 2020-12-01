@@ -74,3 +74,5 @@
   - [Connecting Cash Drawer](/_hardware/cash.md)
   - [Troubleshooting](/_hardware/trouble.md)
   - [Using Kitchen Printer Group](/_hardware/printergroup.md)
+
+- [FAQs](/faq.md)
