@@ -1,4 +1,4 @@
-# **Supported POS Printers**
+# **Compatible POS Printers**
 
 Below is a list of all supported printers:
 

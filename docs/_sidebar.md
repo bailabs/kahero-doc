@@ -65,7 +65,7 @@
   - [Change/Recover Account](/_settings/recover.md)
 
 - Hardware
-  - [Supported Printers](/_hardware/printer.md)
+  - [Compatible Printers](/_hardware/printer.md)
   - [Setting Up Ethernet Printer](/_hardware/ethernet.md)
   - [Setting Up Bluetooth Printer](/_hardware/bt.md)
   - [Setting Up USB Printer - iOS](/_hardware/usbios.md)
@@ -75,4 +75,6 @@
   - [Troubleshooting](/_hardware/trouble.md)
   - [Using Kitchen Printer Group](/_hardware/printergroup.md)
 
-- [FAQs](/faq.md)
+- FAQs
+  - [FAQs](/faq.md)
+  - [Contact Us](/contact.md)

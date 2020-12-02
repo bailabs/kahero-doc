@@ -1,4 +1,4 @@
-# **Connecting Cash Drawers**
+# **Connecting Cash Drawers**  <!--{docsify-ignore-all}-->
 
 KaHero POS supportS printer-driven cash drawers. Cash drawers that is connected to a printer that is connected to KaHero POS.
 
@@ -14,9 +14,9 @@ A cash drawer connects to your receipt printer, and opens automatically when you
 
 <p><img src="_content/_drawer/3.png" alt="mobile number" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>3. Turn the printer on. Using KaHero POS, finish a transaction and the cash drawer will open when the sale is completed.</p>
 
-<br><br><br><br><br>
+<br><br><br><br>
 
-## Opening Cash Drawer Without Sales <!--{docsify-ignore-all}-->
+## Opening Cash Drawer Without Sales
 
 To open the cash drawer without making any sale, create a user.
 
