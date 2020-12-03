@@ -21,6 +21,11 @@ D. Make sure that both your printer and router are on and working.
 ### Network-related Issues
 
 A. Make sure your mobile device is connected to the Wi-Fi network provided by your Wi-Fi router connected to your printer.<br>
+
+<img src="_content/_trouble/1.png" alt="mobile number" width="480" height="270" style="float:left; margin-right:1rem">
+
+<br><br><br><br><br><br><br><br><br><br>
+
 B. Next, comfirm that your receipt printer and the Wi-Fi router are on the same subnet. On your receipt printer, print a network configuration report by following these steps:
 
 <p>
