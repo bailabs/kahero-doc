@@ -1,5 +1,9 @@
 # **Setting Up Your Business in KaHero POS**
 
+<video width="650" height="366" controls>
+  <source src="/_content/_setup/1settingup.mp4" type="video/mp4">
+</video>
+
 Once you have installed KaHero POS on your device, setting up your business settings is the next step.
 
 ## **General Settings** <!-- {docsify-ignore} -->
