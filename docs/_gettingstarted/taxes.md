@@ -1,5 +1,9 @@
 # **Configuring Taxes**
 
+<video width="650" height="366" controls>
+  <source src="/_content/_taxes/5configuringtaxes.mp4" type="video/mp4">
+</video>
+
 KaHero POS allows you to add taxes to your items.
 
 <p><img src="_content/_taxes/1a.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. Under <b>Listings</b>, select <b>Taxes</b>.</p>
