@@ -2,6 +2,10 @@
 
 ## **Adding Items**
 
+<video width="650" height="366" controls>
+  <source src="/_content/_adding/3addingitems.mp4" type="video/mp4">
+</video>
+
 Items are an important factor in businesses. Adding items to your account is quite easy and quick in KaHero POS.
 
 <p><img src="_content/_adding/1a.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. After logging in, on your current screen,<br>click on the <b>Navigation Menu</b> button.</p>
@@ -49,6 +53,10 @@ Items are an important factor in businesses. Adding items to your account is qui
 <br><br><br><br>
 
 ## **Adding Categories**
+
+<video width="650" height="366" controls>
+  <source src="/_content/_adding/4addingcategories.mp4" type="video/mp4">
+</video>
 
 It is important to be systematic when running a business. It is easier for you to keep track of your items when you categorize them. Adding and assigning categories to your items is easy and quick with KaHero POS.
 
