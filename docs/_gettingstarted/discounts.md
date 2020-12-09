@@ -1,5 +1,9 @@
 # **Creating and Configuring Discounts**
 
+<video width="650" height="366" controls>
+  <source src="/_content/_discounts/6creatingdiscounts.mp4" type="video/mp4">
+</video>
+
 KaHero POS allows you to add discounts to your items and sales.
 
 <p><img src="_content/_discounts/1a.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. Under <b>Listings</b>, select <b>Discounts</b>.</p>

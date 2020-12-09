@@ -1,5 +1,9 @@
 # **Making Sales - Register**
 
+<video width="650" height="366" controls>
+  <source src="/_content/_register/7makingsales.mp4" type="video/mp4">
+</video>
+
 The Register is where you make sales transactions.
 
 <p><img src="_content/_register/1a.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b>, select <b>Register</b>.</p>
