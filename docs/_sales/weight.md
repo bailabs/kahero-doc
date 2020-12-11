@@ -1,5 +1,10 @@
 # **Selling Items by Weight**
 
+<video width="650" height="366" controls>
+  <source src="/_content/_weight/4sellingweight.mp4" type="video/mp4">
+</video>
+
+
 In KaHero POS, you can sell an item by weight and this is determined when you first create an item and chose the "Sold By Weight" option.
 
 <p><img src="_content/_weight/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. Firstly, set your item to be sold by weight. You can edit this on <b>Items</b> under the <b>Listings</b> tab on the Navigation menu.</p>

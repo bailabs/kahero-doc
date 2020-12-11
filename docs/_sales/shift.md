@@ -4,6 +4,10 @@ KaHero POS lets you manage the shifts between your employees and track their wor
 
 ## Starting a Shift
 
+<video width="650" height="366" controls>
+  <source src="/_content/_shift/1creatingmodifiers.mp4" type="video/mp4">
+</video>
+
 <p><img src="_content/_shift/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b> under <b>Shift Management</b>, select <b>Open Shift</b> to open your shift.</p>
 
 <br><br><br><br>
@@ -28,6 +32,11 @@ KaHero POS lets you manage the shifts between your employees and track their wor
 
 ## Cash Balancing
 
+<video width="650" height="366" controls>
+  <source src="/_content/_shift/1creatingmodifiers.mp4" type="video/mp4">
+</video>
+
+
 The <b>Cash Balancing</b> tab allows you to make adjustments to your on hand cash whether taking cash out or putting cash in. This is also where you make cash adjustments when your customers close their partial payments.
 
 <p><img src="_content/_shift/5.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br>1. This is the <b>Cash Balancing</b> screen.
@@ -45,6 +54,11 @@ The <b>Cash Balancing</b> tab allows you to make adjustments to your on hand cas
 
 ## Ending a Shift
 
+<video width="650" height="366" controls>
+  <source src="/_content/_shift/1creatingmodifiers.mp4" type="video/mp4">
+</video>
+
+
 <p><img src="_content/_shift/6.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b> under <b>Shift Management</b>, select <b>Close Shift</b> to end your shift.</p>
 
 <br><br><br><br>
@@ -59,6 +73,11 @@ The <b>Cash Balancing</b> tab allows you to make adjustments to your on hand cas
 <br><br><br><br>
 
 ## X-Reading
+
+<video width="650" height="366" controls>
+  <source src="/_content/_shift/1creatingmodifiers.mp4" type="video/mp4">
+</video>
+
 
 X-Reading is a sales and transaction report generated every beginning and end of a shift.
 
@@ -81,6 +100,10 @@ X-Reading is a sales and transaction report generated every beginning and end of
 <br><br><br><br>
 
 ## Z-Reading
+
+<video width="650" height="366" controls>
+  <source src="/_content/_shift/1creatingmodifiers.mp4" type="video/mp4">
+</video>
 
 Z-Reading is a sales and transaction report generated everyday.
 

@@ -4,6 +4,10 @@ Item modifiers are item options that can be assigned to items. Examples are prod
 
 ## Creating Item Modifiers
 
+<video width="650" height="366" controls>
+  <source src="/_content/_modifier/1creatingmodifiers.mp4" type="video/mp4">
+</video>
+
 Item modifiers can only be created on the back office of KaHero POS.
 
 <p><img src="_content/_modifier/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b>, select <b>Back Office</b> to access the back office. You can also go to <a href="https://app.kahero.co/">app.kahero.co.</a></p>
@@ -48,6 +52,10 @@ Item modifiers can only be created on the back office of KaHero POS.
 
 ## Adding Item Modifiers
 
+<video width="650" height="366" controls>
+  <source src="/_content/_modifier/2addingmodifiers.mp4" type="video/mp4">
+</video>
+
 <p><img src="_content/_modifier/5.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Items</b> tab, select <b>Set Modifier</b> beside the item you want to add modifiers to.</p>
 
 <br><br><br><br>
@@ -57,6 +65,10 @@ Item modifiers can only be created on the back office of KaHero POS.
 <br><br><br><br>
 
 ## Applying Item Modifiers
+
+<video width="650" height="366" controls>
+  <source src="/_content/_modifier/3applyingmodifiers.mp4" type="video/mp4">
+</video>
 
 <p><img src="_content/_modifier/11.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. This is how your items with modifier will show on the register.</p>
 

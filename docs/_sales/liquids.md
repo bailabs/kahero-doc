@@ -4,6 +4,10 @@ If you are selling liquid products, you can display your products on the registe
 
 ## Selling by Weight
 
+<video width="650" height="366" controls>
+  <source src="/_content/_liquids/5liquidsellingweight.mp4" type="video/mp4">
+</video>
+
 <p><img src="_content/_liquids/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>You can choose to sell your liquid products per weight. Set your item to be <b>Sold by Weight</b> on the Add Item or Edit Item screen. Make sure to indicate the unit of measure of your item (ex. Oil 1L). Set your item's price.</p>
 
 <br><br>
@@ -17,6 +21,10 @@ If you are selling liquid products, you can display your products on the registe
 <br><br><br><br>
 
 ## Selling by Item Options
+
+<video width="650" height="366" controls>
+  <source src="/_content/_liquids/6liquidsellingoption.mp4" type="video/mp4">
+</video>
 
 If you are selling products in specific volumes, you can use the <b>Item Options</b> when creating or editing an item.
 
