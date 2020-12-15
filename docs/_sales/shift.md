@@ -5,7 +5,7 @@ KaHero POS lets you manage the shifts between your employees and track their wor
 ## Starting a Shift
 
 <video width="650" height="366" controls>
-  <source src="/_content/_shift/1creatingmodifiers.mp4" type="video/mp4">
+  <source src="/_content/_shift/7startingshift.mp4" type="video/mp4">
 </video>
 
 <p><img src="_content/_shift/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b> under <b>Shift Management</b>, select <b>Open Shift</b> to open your shift.</p>
@@ -33,7 +33,7 @@ KaHero POS lets you manage the shifts between your employees and track their wor
 ## Cash Balancing
 
 <video width="650" height="366" controls>
-  <source src="/_content/_shift/1creatingmodifiers.mp4" type="video/mp4">
+  <source src="/_content/_shift/8cashbalance.mp4" type="video/mp4">
 </video>
 
 
@@ -55,7 +55,7 @@ The <b>Cash Balancing</b> tab allows you to make adjustments to your on hand cas
 ## Ending a Shift
 
 <video width="650" height="366" controls>
-  <source src="/_content/_shift/1creatingmodifiers.mp4" type="video/mp4">
+  <source src="/_content/_shift/9endshift.mp4" type="video/mp4">
 </video>
 
 
@@ -75,7 +75,7 @@ The <b>Cash Balancing</b> tab allows you to make adjustments to your on hand cas
 ## X-Reading
 
 <video width="650" height="366" controls>
-  <source src="/_content/_shift/1creatingmodifiers.mp4" type="video/mp4">
+  <source src="/_content/_shift/9xreading.mp4" type="video/mp4">
 </video>
 
 
@@ -102,7 +102,7 @@ X-Reading is a sales and transaction report generated every beginning and end of
 ## Z-Reading
 
 <video width="650" height="366" controls>
-  <source src="/_content/_shift/1creatingmodifiers.mp4" type="video/mp4">
+  <source src="/_content/_shift/10zreading.mp4" type="video/mp4">
 </video>
 
 Z-Reading is a sales and transaction report generated everyday.
@@ -111,7 +111,7 @@ Z-Reading is a sales and transaction report generated everyday.
 
 <br><br><br><br>
 
-<p><img src="_content/_shift/9.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>2. This is your Z-Reading reportscreen.
+<p><img src="_content/_shift/9.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>2. This is your Z-Reading report screen.
 <h5>
 <ol type="A" style="float:left; margin-left:1rem">
 <li>Select a specific date to view.</li>
