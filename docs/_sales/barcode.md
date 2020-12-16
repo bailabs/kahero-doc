@@ -4,6 +4,10 @@ KaHero POS allows you to scan items using scanning equipments. Set your barcode 
 
 ## **Adding Barcodes on Items**
 
+<video width="650" height="366" controls>
+  <source src="/_content/_barcode/11addingbarcode.mp4" type="video/mp4">
+</video>
+
 <p><img src="_content/_barcode/2.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>On the <b>Edit Item</b> screen, under the <b>Details</b> section, add your item's barcode by clicking on the <b>Barcode Icon</b> to scan the barcode.<br>Or you can manually encode the item's barcode on the field provided.</p>
 
 <br><br>
@@ -18,6 +22,10 @@ KaHero POS allows you to scan items using scanning equipments. Set your barcode 
 
 ## **Using Built-In Camera**
 
+<video width="650" height="366" controls>
+  <source src="/_content/_barcode/12builtcamera.mp4" type="video/mp4">
+</video>
+
 <p><img src="_content/_barcode/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the Register Screen, click on the <b>Barcode icon</b> to activate barcode mode.</p>
 
 <br><br><br><br>
@@ -31,6 +39,10 @@ KaHero POS allows you to scan items using scanning equipments. Set your barcode 
 <br><br><br><br>
 
 ## **Using Barcode Scanner**
+
+<video width="650" height="366" controls>
+  <source src="/_content/_barcode/13barcodescanner.mp4" type="video/mp4">
+</video>
 
 <p><img src="_content/_barcode/5.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>When scanning your items using a barcode scanner, your items will appear on the ticket screen. Items will increase depending on how many times you use the scanner.</p>
 

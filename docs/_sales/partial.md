@@ -4,6 +4,10 @@ Your customers may request to do partial payments for their transactions.
 
 ## **Creating Partial Payments**
 
+<video width="650" height="366" controls>
+  <source src="/_content/_partial/25createpartial.mp4" type="video/mp4">
+</video>
+
 <p><img src="_content/_partial/2.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. After creating your transactions, tap on <b>Payment</b> to proceed to the payment screen.</p>
 
 <br><br><br><br>
@@ -37,6 +41,10 @@ Your customers may request to do partial payments for their transactions.
 <br>
 
 ## **Paying Partial Payments**
+
+<video width="650" height="366" controls>
+  <source src="/_content/_partial/26payingpartial.mp4" type="video/mp4">
+</video>
 
 Collecting your customer's balance comes after making partial paymemnts.
 

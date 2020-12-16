@@ -2,7 +2,13 @@
 
 Once you have created and configured discounts, you can apply to your transactions.
 
+To create discounts, click on this link: https://doc.kahero.co/#/_gettingstarted/discounts
+
 ## **Discount to The Whole Ticket**
+
+<video width="650" height="366" controls>
+  <source src="/_content/_applydiscounts/22discountwhole.mp4" type="video/mp4">
+</video>
 
 <p><img src="_content/_applydiscounts/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. Create the ticket. Select your orders from the item list. Click on the <b>Discount</b> icon.</p>
 
@@ -28,6 +34,10 @@ Once you have created and configured discounts, you can apply to your transactio
 <br><br><br><br>
 
 ## **Discount to Individual Items**
+
+<video width="650" height="366" controls>
+  <source src="/_content/_applydiscounts/23discountindividual.mp4" type="video/mp4">
+</video>
 
 <p><img src="_content/_applydiscounts/5.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br>1. Tap on an item on the current ticket. Even with already preset discounts, you can still temporarily change to a specific discount amount or percent depending on how your transaction goes.
 <h5>

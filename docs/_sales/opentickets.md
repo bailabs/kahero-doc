@@ -4,6 +4,10 @@ Open tickets are helpful when the creation of orders and payments are separate f
 
 ## **Creating Open Tickets**
 
+<video width="650" height="366" controls>
+  <source src="/_content/_open/17createopen.mp4" type="video/mp4">
+</video>
+
 In KaHero POS, you can create open tickets that have not been set as predefined tickets.
 
 <p><img src="_content/_pre/4.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Register</b> screen, select the items for order and then click <b>Save</b> to navigate to the Open Tickets screen.</p>
@@ -19,6 +23,10 @@ In KaHero POS, you can create open tickets that have not been set as predefined 
 <br><br><br><br>
 
 ## **Managing Open Tickets**
+
+<video width="650" height="366" controls>
+  <source src="/_content/_open/18manageopen.mp4" type="video/mp4">
+</video>
 
 <p><img src="_content/_open/5.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Register</b> screen, select <b>Open Tickets</b>.</p>
 

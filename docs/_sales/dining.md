@@ -4,6 +4,10 @@ The dining option feature allows you to add your customer's mode of dining such 
 
 ## Adding Dining Options
 
+<video width="650" height="366" controls>
+  <source src="/_content/_dining/14adddiningoptions.mp4" type="video/mp4">
+</video>
+
 <p><img src="_content/_dining/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b> under <b>Settings</b>, Select <b>Dining Options</b>.</p>
 
 <br><br><br><br>
@@ -26,6 +30,10 @@ The dining option feature allows you to add your customer's mode of dining such 
 <br><br><br><br><br>
 
 ## Dining Options Fees
+
+<video width="650" height="366" controls>
+  <source src="/_content/_dining/15optionfees.mp4" type="video/mp4">
+</video>
 
 Dining option fees are fees assigned to your dining options which will be applied to your transactions.
 
@@ -50,6 +58,10 @@ Dining option fees are fees assigned to your dining options which will be applie
 <br><br><br><br>
 
 ## During Sales
+
+<video width="650" height="366" controls>
+  <source src="/_content/_dining/16duringsales.mp4" type="video/mp4">
+</video>
 
 <p><img src="_content/_dining/7.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Register</b> screen, select your desired dining option on the drop down. The dining fee will reflect on the total screen.</p>
 

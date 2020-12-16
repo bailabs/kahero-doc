@@ -4,6 +4,10 @@ Receipts play an important role on business. They are proofs of transactions. Ho
 
 ## **Refunding Receipts**
 
+<video width="650" height="366" controls>
+  <source src="/_content/_refunds/27refund.mp4" type="video/mp4">
+</video>
+
 <p><img src="_content/_refunds/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b>, select <b>Receipts</b> to go to your receipts page.</p>
 
 <br><br><br><br>

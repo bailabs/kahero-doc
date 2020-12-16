@@ -4,7 +4,11 @@ After creating an account in KaHero POS, you can now automatically configure and
 
 Let's say that during the <b>first fourteen(14) days</b> of creating your account in KaHero POS you wanted to explore the app and made test transactions. Now, you're ready to formally start your business and you want the test transactions deleted. KaHero POS allows you to delete your receipts on your own!
 
-## How to Delete Transactions (Back Office) 
+## How to Delete Transactions (Back Office)
+
+<video width="650" height="366" controls>
+  <source src="/_content/_delete/32delete.mp4" type="video/mp4">
+</video>
 
 You access the back office through KaHero POS app or <a href="https://app.kahero.co/">app.kahero.co</a>.
 

@@ -4,6 +4,10 @@ Predefined Tickets are open tickets that are already labeled beforehand. This al
 
 ## **Creating Predefined Tickets**
 
+<video width="650" height="366" controls>
+  <source src="/_content/_pre/19createpredefined.mp4" type="video/mp4">
+</video>
+
 <p><img src="_content/_pre/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b> under <b>Settings</b>, select <b>Open Tickets</b></p>
 
 <br><br><br><br><br>
@@ -18,6 +22,10 @@ Predefined Tickets are open tickets that are already labeled beforehand. This al
 
 ## **Creating Open Tickets**
 
+<video width="650" height="366" controls>
+  <source src="/_content/_pre/20createopen.mp4" type="video/mp4">
+</video>
+
 After creating predefined tickets, you can now use them to label your open tickets.
 
 <p><img src="_content/_pre/4.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Register</b> screen, select the items for order and then click <b>Save</b> to navigate to the Open Tickets screen.</p>
@@ -30,7 +38,11 @@ After creating predefined tickets, you can now use them to label your open ticke
 
 ## **Managing Predefined Tickets**
 
-<p><img src="_content/_open/5.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b> under <b>Settings</b>, select <b>Open Tickets</b>.</p>
+<video width="650" height="366" controls>
+  <source src="/_content/_pre/21managepredefined.mp4" type="video/mp4">
+</video>
+
+<p><img src="_content/_pre/1.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b> under <b>Settings</b>, select <b>Open Tickets</b>.</p>
 
 <br><br><br><br><br>
 
