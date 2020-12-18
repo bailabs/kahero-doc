@@ -93,9 +93,41 @@ X-Reading is a sales and transaction report generated every beginning and end of
 </ol>
 </h5></p>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
-<p><img src="_content/_shift/13.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>3. This is a sample X-Reading printed out report.</p>
+<p><img src="_content/_shift/a.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem">3. This is the content of your X-Reading report:
+<h5>
+<ol type="A" style="float:left; margin-left:1rem">
+<li>Starting cash before shift.</li>
+<li>Expected amount of cash with the calculations of all transactions.</li>
+<li>Actual cash count after shift.</li>
+<li>Difference of your actual cash amount and expected cash amount.</li>
+<li>Total sales made with cash payment.</li>
+<li>Total sales made with mobile wallet payment.</li>
+<li>Total sales made with cheque payment.</li>
+<li>Total sales made with credit card payment.</li>
+</ol>
+</h5></p>
+
+<br><br><br><br><br><br><br><br>
+
+<p><img src="_content/_shift/b.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem">
+<h5>
+<ol type="A" start="9" style="float:left; margin-left:1rem">
+<li>Total refunded amount during the whole shift.</li>
+<li>Total incoming cash apart from sales.</li>
+<li>Total outgoing cash apart from sales.</li>
+<li>Total taxes calculated and collected during the shift.</li>
+<li>Total discounts made during the shift.</li>
+<li>Total refunds made during the shift.</li>
+<li>Total service fees applied during the shift.</li>
+<li>Total dining fees applied during the shift.</li>
+</ol>
+</h5></p>
+
+<br><br><br><br><br><br><br><br><br>
+
+<p><img src="_content/_shift/13.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>4. This is a sample X-Reading printed out report.</p>
 
 <br><br><br><br>
 
@@ -117,11 +149,42 @@ Z-Reading is a sales and transaction report generated everyday.
 <li>Select a specific date to view.</li>
 <li>Click <b>Print Z Report</b> to print.</li>
 </ol>
-</h5>
-</p>
+
+<br><br><br><br><br><br>
+
+<p><img src="_content/_shift/c.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem">3. This is the content of your Z-Reading report:
+<h5>
+<ol type="A" style="float:left; margin-left:1rem">
+<li>Starting cash before opening time.</li>
+<li>Expected amount of cash of all transactions within the day.</li>
+<li>Actual cash count after closing time.</li>
+<li>Difference of your actual cash amount and expected cash amount.</li>
+<li>Total sales made with cash payment.</li>
+<li>Total sales made with mobile wallet payment.</li>
+<li>Total sales made with cheque payment.</li>
+</ol>
+</h5></p>
+
+<br><br><br><br><br><br><br><br>
+
+<p><img src="_content/_shift/d.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem">
+<h5>
+<ol type="A" start="8" style="float:left; margin-left:1rem">
+<li>Total refunded amount from all shifts.</li>
+<li>Total incoming cash apart from sales.</li>
+<li>Total outgoing cash apart from sales.</li>
+<li>Total taxes calculated and collected from all shifts.</li>
+<li>Total discounts made on all shifts.</li>
+<li>Total refunds made on all shifts.</li>
+<li>Total service fees applied on all shifts.</li>
+<li>Total dining fees applied on all shifts.</li>
+</ol>
+</h5></p>
+
+<br><br><br><br><br><br><br><br><br>
 
 <br><br><br><br>
 
-<p><img src="_content/_shift/12.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>3. This is a sample Z-Reading printed out report.</p>
+<p><img src="_content/_shift/12.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>4. This is a sample Z-Reading printed out report.</p>
 
 <br><br><br><br>

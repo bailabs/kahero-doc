@@ -2,7 +2,7 @@
 
 You can add several payment types to KaHero POS if your store accepts different kinds of payments.
 
-<p><img src="_content/_payment/1.png" alt="receipts" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br><br>9. On the <b>Navigation Menu</b> under <b>Listings</b>, select <b>Payment Types</b>.</p>
+<p><img src="_content/_payment/1.png" alt="receipts" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br><br>1. On the <b>Navigation Menu</b> under <b>Listings</b>, select <b>Payment Types</b>.</p>
 
 <br><br><br>
 
