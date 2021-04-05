@@ -8,9 +8,6 @@
   - [Creating & Configuring Discounts](/_gettingstarted/discounts.md)
   - [Making Sales](/_gettingstarted/register.md)
 
-- Test
-  - [hello](/_test/testing.md)  
-
 - Sales
   - [Item Modifiers](/_sales/modifier.md)
   - [Selling Items by Weight](/_sales/weight.md)
