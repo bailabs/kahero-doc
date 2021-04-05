@@ -1,3 +1,5 @@
+- Test
+  - [hello](/test/testing.md)
 - Getting Started
   - [Getting Started](README.md)
   - [Setting Up](/_gettingstarted/setup.md)
