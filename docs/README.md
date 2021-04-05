@@ -1,4 +1,4 @@
-# **Getting Started**
+# **Getting Started** 1
 
 <video width="650" height="366" controls>
   <source src="/_content/1gettingstarted.mp4" type="video/mp4">
