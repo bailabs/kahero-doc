@@ -1,10 +1,10 @@
-# **Getting Started** 1
+# **Getting Started** 
 
 <video width="650" height="366" controls>
   <source src="/_content/1gettingstarted.mp4" type="video/mp4">
 </video>
 
-Download and install KaHero from the Play Store (Android) or App Store (iOS).
+hello Download and install KaHero from the Play Store (Android) or App Store (iOS).
 To use KaHero POS, you'll need to have at least Android 4.2+ or iOS 9.0+.
 
 <p><img src="_content/_gettingstarted/1login.png" alt="getting started" width="480" height="270" style="float:left;margin-right:1rem"><br><br><br>1. Opening KaHero for the first time will lead you to the <i>sign in screen</i>. If you are a new user, click <b>"Create an Account"</b> to register.</p>
