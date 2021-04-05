@@ -4,7 +4,7 @@
   <source src="/_content/_features/2activatefeatures.mp4" type="video/mp4">
 </video>
 
-hello KaHero POS has several features that are very useful to your business and makes it easier for you to keep track of the flow of your business.
+KaHero POS has several features that are very useful to your business and makes it easier for you to keep track of the flow of your business.
 >It is important to activate these features before they appear on your KaHero POS app.<br>
 >There are also features that are only available when you activate KaHero POS's PRO version.
 
