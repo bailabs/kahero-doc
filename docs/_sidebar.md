@@ -7,9 +7,9 @@
   - [Configuring Taxes](/_gettingstarted/taxes.md)
   - [Creating & Configuring Discounts](/_gettingstarted/discounts.md)
   - [Making Sales](/_gettingstarted/register.md)
-  
+
 - Test
-  - [hello](/docs/_test/testing.md)  
+  - [hello](/_test/testing.md)  
 
 - Sales
   - [Item Modifiers](/_sales/modifier.md)
