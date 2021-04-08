@@ -6,7 +6,7 @@
 
 The Register is where you make sales transactions.
 
-<p><img src="_content/_register/1a.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b>, select <b>Register</b>. <br><br> <i>Note:</i> If you have enabled Shift Management in your feautures, you must open a shift first to see the Register option in the Navigation Menu. To open shift, see <a href="docs\_sales\shift.md">this</a>.</p>
+<p><img src="_content/_register/1a.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>1. On the <b>Navigation Menu</b>, select <b>Register</b>. <br><br> <i>Note:</i> If you have enabled Shift Management in your feautures, you must open a shift first to see the Register option in the Navigation Menu. To open shift, see <a href="https://doc.kahero.co/#/_sales/shift?id=starting-a-shift">this</a>.</p>
 
 <br><br><br><br><br>
 
