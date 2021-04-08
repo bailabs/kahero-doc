@@ -38,7 +38,7 @@ Item Options under Item Listings allows you to add variants to your items. For e
 
 <br><br><br><br>
 
-<p><img src="_content/_items/7.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>3. Input the item option quantity. Click <b>Okay</b>.</p>
+<p><img src="_content/_items/7.png" alt="nav" width="480" height="270" style="float:left; margin-right:1rem"><br><br><br>3. Input the item option quantity. Click <b>Okay</b>. <br><br> Note: You only can see the Input Quantity screen if you have picked the option to sell the item by weight.</p>
 
 <br><br><br><br><br>
 
