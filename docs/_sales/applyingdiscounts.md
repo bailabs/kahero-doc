@@ -1,6 +1,6 @@
 # **Applying Discounts to Sales**
 
-Once you have created and configured discounts, you can apply to your transactions. Before being able to apply a discount, you must enable the option to make a discount for the user. To do this, check <a href="https://doc.kahero.co/#/_employee/adding?id=adding-users"> this </a>.
+Once you have created and configured discounts, you can apply to your transactions. Before being able to apply a discount, you must enable the option "Allow to make Discount" for the user. To do this, check <a href="https://doc.kahero.co/#/_employee/adding?id=adding-users"> this </a>.
 
 To create discounts, click on this link: https://doc.kahero.co/#/_gettingstarted/discounts
 
