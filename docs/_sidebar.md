@@ -1,6 +1,7 @@
 - Getting Started
   - [Getting Started](README.md)
   - [Setting Up](/_gettingstarted/setup.md)
+  - [Adding User](/_gettingstarted/addinguser.md)
   - [Activating Features](/_gettingstarted/activate.md)
   - [List of Features](/_gettingstarted/features.md)
   - [Adding Items & Categories](/_gettingstarted/adding.md)
