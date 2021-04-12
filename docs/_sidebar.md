@@ -28,6 +28,8 @@
   - [Items Listing](/_items/items.md)
   - [Item Bundles](/_items/bundles.md)
   - [Items in the Back Office](/_items/backitems.md)
+  - [Category Groups](/_items/categorygroups)
+  - [Printing Sticker Labels](/_items/printerlabel.md)
 
 - Inventory Management
   - [Adding Warehouse](/_inventory/warehouse.md)
